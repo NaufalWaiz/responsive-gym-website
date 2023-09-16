@@ -7,5 +7,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - Contains dark interface.
 
-
+credit : [Bedimcode](https://www.youtube.com/c/Bedimcode)
+post : [@codewithwaiz](https://instagram.com/codewithwaiz?igshid=MzMyNGUyNmU2YQ==)
 
